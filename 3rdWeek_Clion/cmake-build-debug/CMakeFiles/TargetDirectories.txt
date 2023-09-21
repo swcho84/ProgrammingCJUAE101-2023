@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/3rdWeek_Clion/cmake-build-debug/CMakeFiles/3rdWeek_Clion.dir
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/3rdWeek_Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/3rdWeek_Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
