@@ -1,0 +1,5 @@
+# ninja log v5
+1	438	7181921510997184	CMakeFiles/switch_case_test.dir/main.cpp.obj	5741103ed5d5d9ba
+440	870	7181921514228373	switch_case_test.exe	f83291e060400207
+3	204	7181921858936981	CMakeFiles/switch_case_test.dir/main.cpp.obj	5741103ed5d5d9ba
+205	512	7181921861171183	switch_case_test.exe	f83291e060400207
