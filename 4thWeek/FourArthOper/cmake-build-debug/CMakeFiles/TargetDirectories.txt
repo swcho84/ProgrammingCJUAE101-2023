@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/4thWeek/FourArthOper/cmake-build-debug/CMakeFiles/FourArthOper.dir
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/4thWeek/FourArthOper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/4thWeek/FourArthOper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
