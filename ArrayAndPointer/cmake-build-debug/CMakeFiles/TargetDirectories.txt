@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/ArrayAndPointer/cmake-build-debug/CMakeFiles/ArrayAndPointer.dir
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/ArrayAndPointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/ProgrammingCJUAE101-2023/ArrayAndPointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
